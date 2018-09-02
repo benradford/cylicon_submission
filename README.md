@@ -1,5 +1,5 @@
 # cylicon_submission
-Review materials for Automated Dictionary Generation for Political Event Coding
+Review materials for _Automated Dictionary Generation for Political Event Coding_
 
 Benjamin J. Radford
 
